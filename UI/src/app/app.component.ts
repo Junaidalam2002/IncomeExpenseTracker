@@ -15,7 +15,7 @@ import { SideNavComponent } from './side-nav/side-nav.component';
     SideNavComponent,
   ],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css',
+  styleUrl: './app.component.scss',
 })
 export class AppComponent {
   title = 'UI';
