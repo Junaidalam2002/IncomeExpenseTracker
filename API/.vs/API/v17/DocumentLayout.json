@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|solutionrelative:api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Migrations\\20240711073441_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240711073441_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\dataaccess\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66AA5BEA-ACB7-4397-A13F-A60EE35D9785}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|e:\\angular project 1\\incomeexpensetracker\\api\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9395ED3C-240F-44E9-81EF-1CC0B6444D7E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:39:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240711073441_CreateDB.cs",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Migrations\\20240711073441_CreateDB.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240711073441_CreateDB.cs",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Migrations\\20240711073441_CreateDB.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240711073441_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:34:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TransactionController.cs",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "API\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:14:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T07:11:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Transaction.cs",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Entities\\Transaction.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:02:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T06:59:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context.cs",
+              "ToolTip": "E:\\Angular project 1\\IncomeExpenseTracker\\API\\DataAccess\\Context.cs",
+              "RelativeToolTip": "DataAccess\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:00:41.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

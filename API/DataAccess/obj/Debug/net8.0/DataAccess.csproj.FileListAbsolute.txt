@@ -1,0 +1,13 @@
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\Angular project 1\IncomeExpenseTracker\API\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

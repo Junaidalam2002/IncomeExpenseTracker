@@ -7,7 +7,7 @@ import { MonthlyTransactions } from './view-data/view-data.component';
   providedIn: 'root',
 })
 export class ApiService {
-  baseUrl: string = 'https://localhost:7021/api/Transaction/';
+  baseUrl: string = 'https://localhost:7225/api/Transaction/';
 
   constructor(private http: HttpClient) {}
 
